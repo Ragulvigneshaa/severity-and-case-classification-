@@ -1,4 +1,4 @@
-# severity-and-case-classification-
+Severity and case classification
 SERIOUSNESS AND EXPECTEDNESS : 
 
  1) Seriousness (ICH E2A criteria)
